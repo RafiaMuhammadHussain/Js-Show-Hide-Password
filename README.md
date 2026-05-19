@@ -79,7 +79,7 @@ if(password.type === "password"){
 Clone the project
 
 ```bash
-git clone YOUR_GITHUB_REPO_LINK
+git clone (https://github.com/RafiaMuhammadHussain/Js-Show-Hide-Password.git)
 ```
 
 Open `index.html` in your browser 🚀
